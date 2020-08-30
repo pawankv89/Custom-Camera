@@ -3,7 +3,7 @@
 
 Added Some screens here.
 
-![](https://github.com/pawankv89/Custom-Camera/blob/master/images/screen_1.png)
+![](https://github.com/pawankv89/Custom-Camera/blob/master/images/screen_1.PNG)
 
 ## Usage
 
